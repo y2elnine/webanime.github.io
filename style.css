@@ -5,7 +5,12 @@ html {
 @import url('https://fonts.googleapis.com/css2?family=Lato&family=Open+Sans:wght@300&family=Titillium+Web:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
 
+.navbar {
+    background-color: white;
+}
+
 .text-welcome {
+    padding-top: 2em;
     font-weight: 700;
     font-family: 'Titillium Web', sans-serif;
 }
